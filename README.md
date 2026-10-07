@@ -12,6 +12,11 @@ Skills for Claude that I use every day, cleaned up and given away. Each one went
 | [brain-feeder](skills/brain-feeder) | Everything you save (reels, posts, videos) becomes skills and notes your AI actually uses | Nuggts original |
 | [skill-integrator](skills/skill-integrator) | Found a new skill? Vet it, check what it overlaps with, and update only what needs changing | Nuggts original |
 | [learn-anything-brain](skills/learn-anything-brain) | Learn any subject deeply: a folder of confidence-rated notes plus a study guide | Nuggts original |
+| [session-closeout](skills/session-closeout) | A few minutes at the end of a session, so the next one doesn't start from zero | Ritual by le_gouverneur_ia + VibeFlow, packaged by Nuggts (credited) |
+| [data-truth](skills/data-truth) | Every number you send out comes with its receipt, so a wrong figure is caught before a client does | Nuggts original |
+| [pressure-test](skills/pressure-test) | Your idea attacked from several independent angles: a straight verdict and the better version | Nuggts original (premortem: Gary Klein) |
+| [html-print-pdf](skills/html-print-pdf) | PDFs that fit their pages the first time: no cut-off text, no blank last page | Nuggts original |
+| [visual-qc](skills/visual-qc) | A quality gate for AI images and frames that measures the pixels instead of saying "looks great" | Nuggts original |
 
 **Install:** [INSTALL.md](INSTALL.md). Works in the Claude app (no terminal), Cowork and Claude Code. You need a Claude plan with code execution on. A paid plan (~€20/month) is recommended for real work.
 

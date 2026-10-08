@@ -23,7 +23,7 @@ Skills for Claude that I use every day, cleaned up and given away. Each one went
 **Regular updates:** watch or star the repo.
 
 ## Want the edge right now?
-The **Nuggts Brain Packs** include all of these, plus:
+The **Nuggts Brain Packs** add:
 - expert knowledge bases for your job (marketing, writing, creative studio, founder, local visibility…)
 - a guided setup that learns your business
 - a dedicated review engine

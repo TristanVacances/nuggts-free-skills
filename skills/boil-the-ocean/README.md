@@ -15,6 +15,6 @@ It never invents facts to look done, and never touches what you said was off-lim
 **Before:** "Here's a 6-step plan to set up your landing page. Want me to start?"
 **After:** the landing page is live, the form is tested with a fake submission, the mobile layout is checked, and there's a one-page README for next time.
 
-**Credits:** a Nuggts original, written and hardened over months of daily use, every rule earned by something that went wrong once.
+**Credits:** the principle is **Garry Tan's** "Boil the Ocean", including "search before building" and the core lines ([gstack ETHOS](https://github.com/garrytan/gstack/blob/main/ETHOS.md), his `SOUL.md`, and [his post](https://x.com/garrytan/status/2020252961117802732)). Nuggts extended it over months of daily use, every added rule earned by something that went wrong once: checks must be seen failing before they are trusted, a preflight of whatever the final delivery needs, a parallel review that returns ready-to-apply edits, and a plan-first exception. Go follow him.
 
 Install: see [INSTALL.md](../../INSTALL.md).

@@ -16,6 +16,8 @@ the **finished product**, not a plan to build it.
 
 ## The core belief
 
+*This principle and the wording of its core lines are Garry Tan's ("Boil the Ocean", from his open-source [gstack](https://github.com/garrytan/gstack) and his `SOUL.md`).*
+
 The marginal cost of completeness is near zero with AI. Thoroughness that used to cost
 days of human effort now costs minutes. The constraint that justified cutting corners
 is gone, so act like it.
@@ -100,5 +102,5 @@ Test before shipping. Ship the complete thing.
 **Boil the ocean.**
 
 ---
-*Free skill from [Nuggts](https://nuggts.fr). Distilled, tested and kept up to date
-through months of real daily use. Want the whole toolbox? See the Brain Packs at [nuggts.fr/packs](https://nuggts.fr/packs).*
+*Free skill from [Nuggts](https://nuggts.fr). The principle is Garry Tan's; the checks, gates and review contract on top
+were added by Nuggts and hardened through months of real daily use. Want the whole toolbox? See the Brain Packs at [nuggts.fr/packs](https://nuggts.fr/packs).*

@@ -5,7 +5,7 @@ Skills for Claude that I use every day, cleaned up and given away. Each one went
 | Skill | What it does | Origin |
 |---|---|---|
 | [kickoff](skills/kickoff) | The only command to remember: picks the right skills, does the work, reviews it before you see it | Nuggts original |
-| [boil-the-ocean](skills/boil-the-ocean) | Get the finished, tested, documented thing instead of a plan | Nuggts original |
+| [boil-the-ocean](skills/boil-the-ocean) | Get the finished, tested, documented thing instead of a plan | Garry Tan's principle (gstack), extended by Nuggts |
 | [structure-first-ai](skills/structure-first-ai) | Before you build an AI agent: the leaner, model-proof version | Distilled from Jake Van Clief + others (credited) |
 | [ai-opportunity-audit](skills/ai-opportunity-audit) | Interviews you about your business, then ranks where AI pays off by hours saved per week | Method by Cooper Simson, extended by Nuggts |
 | [agent-file-structure](skills/agent-file-structure) | Set up your folder, context file and memory once, so Claude stops starting from zero | Method by Cooper Simson (credited) |

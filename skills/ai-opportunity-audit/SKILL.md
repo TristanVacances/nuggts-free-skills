@@ -1,16 +1,18 @@
 ---
 name: ai-opportunity-audit
 description: >-
-  Interviews you about your business one question at a time, then hands back a
-  ranked report of where AI will pay off fastest, with the exact first step for
-  the top three. Every idea must pass two gates: can AI genuinely do this today,
-  and will it drive results for YOUR business. Use when you want to know what to
-  automate first, where AI pays off, or whether to build anything at all. Trigger
-  on "where should I use AI in my business", "which AI project should I do
-  first", "AI opportunity audit", "audit my workflow for automation", "what
-  should I automate first", "AI ROI audit". Not for building an already-chosen
-  system.
+  Use when someone runs a business or team and asks where AI could help: "where should I 
+  use AI", "what should I automate first", "I want to use AI but don't know where to 
+  start", "is it worth building an AI tool for X", "how do I save time on my admin". 
+  Interviews them one question at a time about how the work really runs, then hands back a 
+  ranked report of where AI pays off fastest, with the exact first step for the top three. 
+  Every idea must pass two gates: can AI do it today, and will it move results for THIS 
+  business. Not for building an already-chosen system.
 ---
+
+## Answer first (default)
+
+If the person describes their business in a single message, do not open an interview. Give a first-pass ranked shortlist from what they told you (where AI pays off fastest, an honest note on what it can't do yet, and the exact first step for the top one), state your assumptions in one line, then offer the full one-question-at-a-time audit to sharpen it. Run the full interview only when they ask for the audit, or after you have delivered the first pass and they want it refined. Never reply with only questions.
 
 # AI Opportunity Audit
 

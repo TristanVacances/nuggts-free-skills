@@ -18,6 +18,16 @@ Skills for Claude that I use every day, cleaned up and given away. Each one went
 | [html-print-pdf](skills/html-print-pdf) | PDFs that fit their pages the first time: no cut-off text, no blank last page | Nuggts original |
 | [visual-qc](skills/visual-qc) | A quality gate for AI images and frames that measures the pixels instead of saying "looks great" | Nuggts original |
 
+## Does it work? Our own test, limits included
+
+We ran the seven skills that can be tested in a chat against the same model without them (Claude Sonnet 5.5, same effort), on 84 fresh, independently written tasks (12 per skill, 28 of them with a hidden flaw), judged blind by a second model.
+
+- With the skills: **71% of decided tasks won** against the plain model (95% range 58–82%), and **about 38% fewer missed checks** (24.8% of checks missed without the skills, 15.2% with).
+- Against the same model thinking harder (high effort) the win rate is 60%, and the range (47–72%) includes a coin flip: we can't claim more than "at least as good as thinking harder".
+- Strongest results: structure-first-ai and data-truth (data-truth won every decided task against the plain model at high effort, 8–0). Weakest: agent-file-structure, learn-anything-brain and pressure-test.
+- Not tested (they can't be judged in a single chat answer): kickoff, brain-feeder, skill-integrator, session-closeout, html-print-pdf, visual-qc.
+- Limits: the tasks and the judge are AI-made, single question and answer only, 12 tasks per skill, and the skills were adjusted after earlier rounds (we used fresh tasks to guard against tuning to the test). Details and every number: the benchmark notes are available on request.
+
 **Install:** [INSTALL.md](INSTALL.md). Works in the Claude app (no terminal), Cowork and Claude Code. You need a Claude plan with code execution on. A paid plan (~€20/month) is recommended for real work.
 
 **Regular updates:** watch or star the repo.

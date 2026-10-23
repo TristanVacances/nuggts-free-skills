@@ -1,17 +1,19 @@
 ---
 name: pressure-test
 description: >-
-  Pressure-test a business idea, side project, startup or plan to a verdict: is it
-  actually good, and if not, is there a version that is? Frames the real risk, gathers
-  the evidence it can actually check, attacks the idea from several independent lenses
-  (customer, skeptic, economist, contrarian, plus optional historian and operator),
-  then gives a verdict-first call (go / skip / needs homework), a rescue or pivot
-  path, and a short premortem. Output is a plain report in chat. Use whenever someone
-  says "pressure test this idea", "is this a good business idea", "roast my idea",
-  "gut-check my idea", "tear this apart", "should I build X", "stress-test my plan",
-  "will this make money", or "vet this venture". Not for a plan you've already
-  committed to (run a premortem instead) or a single quick strategy question.
+  Use when someone is about to commit time or money to an idea or plan and wants to know 
+  whether it holds up: a product or side-project idea, a price change, a discount, 
+  quitting a job to go freelance, a launch, a big bet. Also when they share early good 
+  signs (a waitlist, a survey, a viral post, a first sale) and ask what to do next. Frames 
+  the real risk, checks the numbers it can check, attacks the idea from several angles, 
+  then gives a verdict first (go / skip / needs homework), a better version if there is 
+  one, and a short premortem. Not for a plan already committed to or a single quick 
+  strategy question.
 ---
+
+## Verdict in the first lines (default)
+
+Lead with the verdict (go / skip / needs homework) and the one or two numbers or facts that decide it, then the rescue path, then the supporting lenses. Keep the whole answer proportionate to the ask: a short idea gets a short verdict, not a full multi-lens report; expand only if the person asks for the full pressure test. State assumptions in one line instead of asking for them, and ask at most two questions that would change the verdict.
 
 # Pressure-Test
 

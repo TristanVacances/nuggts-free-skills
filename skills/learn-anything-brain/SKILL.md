@@ -1,8 +1,17 @@
 ---
 name: learn-anything-brain
 description: >-
-  Builds a queryable study brain for any subject you want to learn deeply (a skill, a craft, an exam): a curriculum plus expert sources become a folder of plain Markdown notes, each "how do practitioners actually solve X" answer confidence-rated by how many independent sources agree, plus a generated study guide. Use when you say "learn X deeply", "build a study brain for X", "turn this course into a knowledge base", "prep for an exam", "what do experts agree on for X", "which approach do most practitioners use", or "confidence-rated notes". Works in plain chat, no terminal needed. Marks anything unbacked as UNVERIFIED.
+  Use when someone wants to get up to speed on a subject, skill or exam: "where do I start 
+  learning X", "I have N weeks to learn X", "I need to understand X for work", "I'm 
+  studying for an exam", "which of these sources can I trust", "how do I know I actually 
+  know it". Turns the goal, the time available and the sources into a structured study 
+  plan and confidence-rated notes, and flags anything unbacked as UNVERIFIED. Works in 
+  plain chat. Not for a single quick explanation of one concept.
 ---
+
+## Answer first (default)
+
+When the person describes what they want to learn in a single message, deliver in that same message: a short study plan fitted to their time, the core notes or key ideas for week one, and one worked example or self-check. State your assumptions in one line instead of asking for them. End with at most three questions that would sharpen the plan, and offer the full "Questions first" build only if they want it. Never reply with only questions or only an outline. The Step 0 questions below are the optional deep-build path, not the default.
 
 # Learn-Anything Brain
 

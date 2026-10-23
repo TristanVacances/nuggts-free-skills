@@ -1,16 +1,15 @@
 ---
 name: data-truth
 description: >-
-  A gate to run before any measured number (money, %, multiple, count) goes into
-  a client deliverable, a report, a pitch, a case study, a post or an
-  opportunity-sizing. It checks that the figure comes from the system of record
-  (not a proxy), that every sub-surface was summed, that two systems agree (a gap
-  over about 2x means stop and investigate), that the attribution model and window
-  are named, and that every number carries a provenance tag. Use when the user says
-  "pull the numbers", "what's our ROAS", "how much did email make", "size the
-  opportunity", "check these figures", "is this number right", "before I send this
-  report", "fact-check my stats", or /data-truth. Also run it quietly whenever you
-  are about to write a measured figure into something another person will read.
+  Use whenever a measured number (money, %, ROAS, conversion, retention, count) is about 
+  to go into something another person will read or act on: a client report, board deck, 
+  pitch, case study, post, invoice or opportunity sizing. Also when the person combines 
+  several accounts, stores, systems or time windows into one headline figure, or asks "is 
+  this number right". Checks the figure comes from the system of record, that every 
+  sub-surface is summed, that two systems agree (a gap over about 2x means stop and 
+  investigate), that the attribution model and window are named, and tags each number with 
+  its provenance. Run it quietly whenever you are about to write a measured figure someone 
+  will rely on.
 ---
 
 # Data Truth: no number ships without its receipt

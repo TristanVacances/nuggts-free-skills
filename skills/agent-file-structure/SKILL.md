@@ -1,17 +1,13 @@
 ---
 name: agent-file-structure
 description: >-
-  Sets up the folder, the context file (CLAUDE.md) and the memory files once, so
-  Claude stops starting every chat from zero. Works in the Claude desktop app,
-  Cowork with a project folder, and Claude Code. Use when the user says "every
-  new chat starts from scratch", "I re-explain myself constantly", "my AI
-  folders are a mess", "where does CLAUDE.md go", "where do my rules and
-  context files go", "give Claude memory across sessions", "set up my agent
-  file structure / brain folder", or is about to start a new AI project or agent
-  and asks how to organize it. Also for one piece only: the memory layer, the
-  per-project context file, or the .env secrets rule. Method by Cooper Simson
-  (@cooper.simson). NOT for deciding whether to build an agent at all (that is
-  structure-first-ai).
+  Use when someone says every new chat starts from scratch, they keep re-explaining 
+  themselves, their AI folders are a mess, they ask where CLAUDE.md or their rules and 
+  context files go, how to give Claude memory across sessions, or how to organise files 
+  before starting a new AI project or agent. Sets up the folder, the context file 
+  (CLAUDE.md) and the memory files once. Works in the Claude desktop app, Cowork and 
+  Claude Code. Method by Cooper Simson (@cooper.simson). Not for deciding whether to build 
+  an agent at all (that is structure-first-ai).
 ---
 
 # Agent File Structure

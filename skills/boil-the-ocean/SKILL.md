@@ -1,13 +1,18 @@
 ---
 name: boil-the-ocean
 description: >-
-  Raise the bar to maximum on a piece of work: ship the complete, tested,
-  documented result instead of a plan, a workaround, or a good-enough draft. Use
-  when the user says "boil the ocean", "do the whole thing", "do it right", "no
-  half-measures", "make it impressive", or frames a build as important or
-  ambitious. The completeness standard applies whenever the permanent solve is
-  within reach.
+  Use whenever someone asks for a finished piece of work that has to be right: a script, 
+  SQL query, report, automation, page, spreadsheet or tool, especially when the stakes are 
+  real ("before it goes to the board", "my client will use this", "make it actually work") 
+  or the ask is vague and the person is not technical. Delivers the complete, tested, 
+  documented result instead of a plan, a sketch or a first draft, and checks the work 
+  before handing it over. Also on "boil the ocean", "do it right", "do the whole thing". 
+  Not for quick factual questions or one-line answers.
 ---
+
+## Deliver first (default)
+
+When asked for a finished piece of work, deliver the working result in the same message, with the checks you ran and the assumptions you made in one line each. Never answer with only a plan or only questions. If something essential is missing, make the most reasonable assumption, say so, and ask at most two questions at the end.
 
 # Boil the Ocean
 

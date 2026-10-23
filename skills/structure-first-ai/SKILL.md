@@ -1,11 +1,12 @@
 ---
 name: structure-first-ai
 description: >-
-  Design lens before building anything with AI — agent vs automation vs
-  RAG/vector DB vs "second brain" vs internal tool. Pushes back on frameworks
-  (LangChain, CrewAI, n8n, Pinecone); favors folders/YAML/Markdown,
-  human-augmented, anchored to a paid problem. Use when scoping or
-  second-guessing an AI build. NOT for reviewing existing code.
+  Use when someone describes an AI agent, automation, chatbot, RAG or "second brain" 
+  project they plan to build or have just started, or asks which framework, vector 
+  database or tool to use for it. A design lens before building: agent vs plain automation 
+  vs RAG vs just a well-organised folder; pushes back on heavy frameworks, favours 
+  folders, YAML and Markdown with a human in the loop, anchored to a problem someone pays 
+  for. Not for reviewing existing code.
 ---
 
 # Structure-First AI
